@@ -19,9 +19,10 @@ python bulk_image_generator.py
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Note
-I do want to add more things, like using multiprocess, pool, a compression at teh cost of quality option, etc. But I'm too lazy to do it right now. Maybe in the future.
+I do want to add more things, like using multiprocess, pool, a compression at the cost of quality option, etc. But I'm too lazy to do it right now. Maybe in the future.
 Also, I'm not sure if the script works on Windows, Like by the way its written it should work on any OS but I haven't tested it on anything else than Linux (Fedora 40).
 I was gonna make it so it replaces the images in the same directory but then realised some idiot (me) might accidentally run it in the wrong directory.
 
+*PS. Alr added the compression option. It's not the best but it works. I'll add more options in the future. If I feel like it.*
 ## Author
 - [0xQan](https://github.com/furqanhun)
