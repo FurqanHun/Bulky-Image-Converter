@@ -1,4 +1,4 @@
-# Bulky Image Generator
+# Bulky Image Converter
 
 The name's a joke but the real purpose of this script is to convert images in bulk.
 
